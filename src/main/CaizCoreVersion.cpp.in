@@ -1,0 +1,4 @@
+#include "main/CaizCoreVersion.h"
+
+const std::string STELLAR_CORE_VERSION = "%%VERSION%%";
+
